@@ -1,7 +1,7 @@
 <h1>Hi, I'm Miguel!</h1>
 
 <h2> 📜Professional Summary:</h2>
-I'm a results-driven professional with over 3 years of experience on the trust and safety team. I have developed a keen eye for identifying and mitigating potential risks. Furthermore, I am passionate about promoting a safe online experience for users and am actively expanding my knowledge of cyber security. With a commitment to excellence, I strive to leverage my expertise in trust and safety alongside my growing information technology acumen to create a secure digital environment for all users.
+I'm a results-driven professional with over 3 years of experience on the trust and safety team. I have developed a keen eye for identifying and mitigating potential risks. Furthermore, I am passionate about promoting a safe online experience for users and am actively expanding my knowledge of cyber security. With a commitment to excellence, I strive to leverage my expertise in trust and safety alongside my growing information technology acumen to create a secure digital environments for all users.
   
 <h2>📂 Cybersecurity Projects:</h2>
 
