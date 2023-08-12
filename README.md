@@ -3,7 +3,7 @@
 <h2>📂 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/miguel079/ActiveDirectoryLab)
 - <b>PowerShell</b>
    - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 <h2> 📄 Certifications</h2>
