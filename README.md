@@ -8,6 +8,7 @@ I'm a results-driven professional with over 3 years of experience on the trust a
 
   - [Active Directory Home Lab](https://github.com/miguel079/ActiveDirectoryLab)
   - [Exploit Vulnerable Workstation Lab](https://github.com/miguel079/exploitVulnerableWorkstation)
+  - [Network Traffic Analysis Lab](https://github.com/miguel079/AnalyzingNetworkTraffic)
 
 <h2> 📄 Certifications</h2>
 
