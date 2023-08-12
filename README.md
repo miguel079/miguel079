@@ -4,15 +4,15 @@
 
 
   - [Active Directory Home Lab](https://github.com/miguel079/ActiveDirectoryLab)
-- <b>PowerShell</b>
-   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Exploit Vulnerable Workstation Lab](https://github.com/miguel079/exploitVulnerableWorkstation)
+
 <h2> 📄 Certifications</h2>
 
 Google's Technical Support Fundamentals Certificate Program
 
 Google's Cybersecurity Professional Certificate Program
 
-Data Analysis with R Programming- Google's Data Analysis Certificate Program 
+Googgle's Data Analysis with R Programming Certificate
 
 
 <h2> 🤳 Connect with me:</h2>
