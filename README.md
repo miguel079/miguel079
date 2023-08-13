@@ -8,6 +8,7 @@ I'm a results-driven professional with over 3 years of experience on the trust a
 
   - [Active Directory Home Lab](https://github.com/miguel079/ActiveDirectoryLab)
   - [Exploit Vulnerable Workstation Lab](https://github.com/miguel079/exploitVulnerableWorkstation)
+  - [Examining Alerts, Logs, and Rules with Suricata IDS](https://github.com/miguel079/SuricataLab)
   - [Network Traffic Analysis Lab](https://github.com/miguel079/AnalyzingNetworkTraffic)
   - [Decrypting a File and Revealing Hidden Messages with Linux](https://github.com/miguel079/decryption_with_linux)
 
