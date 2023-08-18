@@ -11,7 +11,7 @@ I'm a results-driven professional with over 3 years of experience on the trust a
   - [Examining Alerts, Logs, and Rules with Suricata IDS](https://github.com/miguel079/SuricataLab)
   - [Network Traffic Analysis Lab with Wireshark](https://github.com/miguel079/AnalyzingNetworkTraffic)
   - [Decrypting a File and Revealing Hidden Messages with Linux](https://github.com/miguel079/decryption_with_linux)
-  - [Creating a File Integrity Monitor with Powershell Script] (https://github.com/miguel079/FIM_Powershell_Integrity/blob/main/README.md)
+  - [Creating a File Integrity Monitor in Powershell](https://github.com/miguel079/FIM_Powershell_Integrity/blob/main/README.md)
 
 <h2> 📄 Certifications</h2>
 
